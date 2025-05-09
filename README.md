@@ -11,7 +11,7 @@
 - Lặp lại tra cứu nếu captcha sai, tối đa 10 lần/lượt.
 - Tự động chạy theo lịch (ví dụ: 6h và 12h mỗi ngày).
 
-## 🛠 Yêu Cầu
+## Yêu Cầu
 
 - Python 3.x
 - Google Chrome + [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
